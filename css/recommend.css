@@ -1,0 +1,23 @@
+/* css/recommend.css */
+.recommend {
+  background-color: #eaf6fb;
+}
+
+.place-img {
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.place-name {
+  text-align: center;
+  font-weight: bold;
+  margin-top: 8px;
+}
+
+.search-box {
+  background-color: white;
+  padding: 15px;
+  border-radius: 10px;
+}
